@@ -48,11 +48,12 @@
 </table>
 
 
+
 ## 📥 Download
 
-👉 **Download the latest APK from the Releases section**
+⬇️ **[Download the latest ShopKimi APK](https://github.com/cosmas44/ShopKimi-Android/releases/download/v4.2.0/app-release.apk)**
 
-https://github.com/cosmas44/ShopKimi-Android/releases/latest
+Compatible with Android 8.0+
 
 # 🛍️ ShopKimi
 
@@ -139,3 +140,8 @@ info@shopkimi.com
 
 ShopKimi © 2026. All rights reserved.
 
+## 📥 Download
+
+⬇️ **[Download the latest ShopKimi APK](https://github.com/cosmas44/ShopKimi-Android/releases/download/v4.2.0/app-release.apk)**
+
+Compatible with Android 8.0+
