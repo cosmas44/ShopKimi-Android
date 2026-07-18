@@ -4,20 +4,45 @@
 
 ## 📱 ShopKimi Screenshots
 
-### 🏠 Home
-![Home](./home.jpg)
+<table>
+<tr>
+<td align="center">
+<img src="./home.jpg" width="250"><br>
+<b>🏠 Home</b>
+</td>
 
-### 🔍 Smart Search
-![Search](./search.jpg)
+<td align="center">
+<img src="./search.jpg" width="250"><br>
+<b>🔍 Smart Search</b>
+</td>
+</tr>
 
-### 👤 My ShopKimi
-![My ShopKimi](./myshopkimi.jpg)
+<tr>
+<td align="center">
+<img src="./myshopkimi.jpg" width="250"><br>
+<b>👤 My ShopKimi</b>
+</td>
 
-### 🌐 Languages
-![Languages](./language.jpg)
+<td align="center">
+<img src="./language.jpg" width="250"><br>
+<b>🌐 Languages</b>
+</td>
+</tr>
 
-### 📄 Footer
-![Footer](./foot.jpg)
+<tr>
+<td align="center">
+<img src="./foot.jpg" width="250"><br>
+<b>📄 Footer</b>
+</td>
+
+<td align="center">
+<img src="./home.jpg" width="250"><br>
+<b>⭐ More Features</b>
+</td>
+</tr>
+</table>
+
+
 # 🛍️ ShopKimi
 
 **ShopKimi** is an intelligent global shopping platform that helps users discover products from trusted international marketplaces in one place.
