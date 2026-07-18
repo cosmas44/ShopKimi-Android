@@ -2,6 +2,22 @@
   <img src="./shopkimi-logo.png" width="450">
 </p>
 
+## 📱 ShopKimi Screenshots
+
+### 🏠 Home
+![Home](./home.jpg)
+
+### 🔍 Smart Search
+![Search](./search.jpg)
+
+### 👤 My ShopKimi
+![My ShopKimi](./myshopkimi.jpg)
+
+### 🌐 Languages
+![Languages](./language.jpg)
+
+### 📄 Footer
+![Footer](./foot.jpg)
 # 🛍️ ShopKimi
 
 **ShopKimi** is an intelligent global shopping platform that helps users discover products from trusted international marketplaces in one place.
