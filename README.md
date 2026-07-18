@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./shopkimi-logo.png" width="450">
+</p>
+
 # 🛍️ ShopKimi
 
 **ShopKimi** is an intelligent global shopping platform that helps users discover products from trusted international marketplaces in one place.
