@@ -2,6 +2,11 @@
   <img src="./shopkimi-logo.png" width="450">
 </p>
 
+![Android](https://img.shields.io/badge/Android-8%2B-green)
+![Version](https://img.shields.io/badge/version-v4.2.0-blue)
+![Languages](https://img.shields.io/badge/Languages-12-orange)
+![Status](https://img.shields.io/badge/status-Active-success)
+
 ## 📱 ShopKimi Screenshots
 
 <table>
@@ -43,6 +48,12 @@
 </table>
 
 
+## 📥 Download
+
+👉 **Download the latest APK from the Releases section**
+
+https://github.com/cosmas44/ShopKimi-Android/releases/latest
+
 # 🛍️ ShopKimi
 
 **ShopKimi** is an intelligent global shopping platform that helps users discover products from trusted international marketplaces in one place.
@@ -83,19 +94,27 @@ Whether you're looking for electronics, fashion, vehicles, home products, beauty
 
 ## 🌐 Official Website
 
-https://shopkimi.com
-
+🌍 https://shopkimi.com
 ---
+
+## 🌐 Official Links
+
+
+
+📸 Instagram
+https://www.instagram.com/shopkimi_official
+
+▶️ YouTube
+https://www.youtube.com/@Shopkimi
+
+📘 Facebook
+https://www.facebook.com/profile.php?id=61591886524435
 
 ## 📧 Contact
 
 info@shopkimi.com
 
 ---
-
-## 📱 Download
-
-Download the latest Android APK from the **Releases** section.
 
 ---
 
@@ -119,3 +138,4 @@ Download the latest Android APK from the **Releases** section.
 ## © ShopKimi
 
 ShopKimi © 2026. All rights reserved.
+
